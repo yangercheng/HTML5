@@ -3,16 +3,15 @@
 ```
 <!DOCTYPE html>
 <html>
-<head>
-<title>
-demo
-</title>
-</head>
-<body>
-<div class = "container">
-
-</div>
-</body>
+    <head>
+        <title>
+            demo
+        </title>
+    </head>
+    <body>
+        <div class = "container">
+        </div>
+    </body>
 </html>
 ```
 
